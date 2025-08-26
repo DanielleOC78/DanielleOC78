@@ -10,4 +10,4 @@
 - New to coding, but intrigued to learn abou it :high_brightness:
 - In my free time, I love adventuring outdoors—snowboarding, mountain biking, rock climbing, and camping :snowboarder: :mountain_bicyclist: ⛺
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielleOC78)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielleOC78)
