@@ -9,6 +9,10 @@
 - Currently pursuing an MS in Graphic Information Technology at ASU :fire: 
 - New to coding, but intrigued to learn abou it :high_brightness:
 - In my free time, I love adventuring outdoors—snowboarding, mountain biking, rock climbing, and camping :snowboarder: :mountain_bicyclist: ⛺
+
+## Find me on:
+- https://www.danielle-oconnor.com/
+- https://www.linkedin.com/in/danielle-o-connor-4a896b3/
   
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielleOC78&show_icons=000000&bg_color=000000,e96443,904e95&title_color=fff&text_color=ffffff)
