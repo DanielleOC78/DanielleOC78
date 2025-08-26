@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![code_unsplash](https://github.com/user-attachments/assets/0afb946a-2b67-4f08-b117-216b31768887)
+<!--Photo by Timothy Cuenat on Unsplash-->
 <!--
 **DanielleOC78/DanielleOC78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
